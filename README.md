@@ -1,2 +1,0 @@
-# desafiosrocketseat
-Desafios Rocketseat
